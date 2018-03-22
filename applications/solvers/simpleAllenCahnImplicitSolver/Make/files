@@ -1,0 +1,3 @@
+simpleAllenCahnImplicitSolver.C
+
+EXE = $(FOAM_USER_APPBIN)/simpleAllenCahnImplicitSolver
